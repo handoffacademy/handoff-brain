@@ -1,6 +1,6 @@
 # About the business
 
-Your Chief fills this in during the About My Business interview.
+Your assistant fills this in during the About My Business interview.
 
 - **What we sell and to whom:** (not answered yet)
 - **How customers find us:** (not answered yet)

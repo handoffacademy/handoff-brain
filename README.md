@@ -1,6 +1,6 @@
 # Handoff brain
 
-Your AI team's brain: what your team knows about the business, its rules and its trainings.
+Your Executive Assistant's brain: what your assistant knows about the business, its rules and its trainings.
 
 1. Choose **Use this template**, then **Create a new repository**.
 2. Set it to **Private**, so your notes stay yours.
