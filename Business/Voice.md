@@ -1,3 +1,3 @@
 # Voice
 
-How the team sounds, and how we sign off.
+How your assistant sounds, and how we sign off.
